@@ -1,0 +1,3 @@
+welcome to sample2
+
+this file is edited in master
